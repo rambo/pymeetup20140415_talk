@@ -1,0 +1,13 @@
+Arduino_UNO_unpacked.jpg http://en.wikipedia.org/wiki/File:Arduino_UNO_unpacked.jpg
+512px-Arduino_Logo.svg.png http://commons.wikimedia.org/wiki/File:Arduino_Logo.svg
+Arduino_Logo.svg http://commons.wikimedia.org/wiki/File:Arduino_Logo.svg
+zmq_logo.gif http://zeromq.org/
+ArduinoNanoFront_3_sm.jpg http://arduino.cc/en/Main/arduinoBoardNano
+LilyPad_5.jpg http://arduino.cc/en/Main/arduinoBoardLilyPad
+Nokia770-fi-wiki.jpg http://en.wikipedia.org/wiki/File:Nokia770-fi-wiki.jpg
+rt_testplatform_hhd_crop.jpg https://www.flickr.com/photos/hannumakarainen/12566187234/
+helsinki_hacklab_logo_compact_text_right-1000x2881.png http://helsinki.hacklab.fi/
+reactor_smoking_hhd_crop.jpg https://www.flickr.com/photos/hannumakarainen/12562922563/
+reactor_wark2012.jpg https://www.flickr.com/photos/ermuggo/8118672641/in/pool-2089172@N20
+
+Other images by Eero 'rambo' af Heurlin
